@@ -28,3 +28,15 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] Criando middleware de JSON
 
 ##### [Banco de dados]([https://github.com/viniciusmaclters/ignite-trilha-reactjs](https://github.com/viniciusmaclters/nodejs-ignite/new/main?readme=1))
+- [x] Criando banco de dados JSON
+- [x] Persistindo bando de dados
+- [x] Criando ID único e universal
+
+##### [Rotas da aplicação]([https://github.com/viniciusmaclters/ignite-trilha-reactjs](https://github.com/viniciusmaclters/nodejs-ignite/new/main?readme=1))
+- [x] Separando rotas da aplicação
+- [x] Route e Query parameters
+- [x] Rotas com parâmetros
+- [x] Remoção de registros
+- [x] Atualização de registros
+- [x] Capturando query parameters
+- [x] Filtrando lista do banco de dados
