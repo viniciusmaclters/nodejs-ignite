@@ -28,6 +28,3 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] Criando middleware de JSON
 
 ##### [Banco de dados]([https://github.com/viniciusmaclters/ignite-trilha-reactjs](https://github.com/viniciusmaclters/nodejs-ignite/new/main?readme=1))
-- [x] Fundamentos do TypeScript
-- [x] TypeScript no React
-- [x] Extensão de interfaces
